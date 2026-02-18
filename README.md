@@ -30,6 +30,12 @@ Then proceed to setup:
 git clone --recursive https://github.com/stoatchat/for-web client
 cd client
 
+
+
+#owo test commit empty space :3
+
+
+
 # update submodules if you pull new changes
 # git submodule init && git submodule update
 
